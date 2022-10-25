@@ -1,0 +1,41 @@
+.headerStyle {
+  font-size: 80px;
+  color: rgb(248, 16, 217);
+}
+
+span {
+  font-size: 40px;
+  color: rgb(18, 238, 37);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pic {
+  height: 50%;
+  width: 80%;
+}
+
+.list {
+  font-size: 39px;
+  color: rgb(228, 27, 27);
+}
+
+
+.btn {
+  height: 50px;
+  width: 50%;
+}
+
+body {
+  font-size: x-large;
+}
+
+div {
+  height: 50%;
+  width: 50%;
+  color: aquamarine;
+  background-color: blue;
+}
+
+button {
+  width: 50%;
+}
